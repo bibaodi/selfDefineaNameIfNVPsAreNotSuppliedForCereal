@@ -1,0 +1,9 @@
+{
+    "theNextItemNameIfNotExistButYouWantDefineIt": {
+        "data": {
+            "ptr_wrapper": {
+                "id": 0
+            }
+        }
+    }
+}
